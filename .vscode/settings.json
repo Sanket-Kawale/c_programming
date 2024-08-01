@@ -1,7 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "enabled",
-    "files.associations": {
-        "and or": "c"
-    },
-    "code-runner.runInTerminal": true
-}
